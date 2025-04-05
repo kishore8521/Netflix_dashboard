@@ -50,5 +50,5 @@ This project features a visually interactive dashboard built using **Tableau**, 
 ## 🙋‍♂️ Author
 
 **Kishore**  
-LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kishore-b-data-analyst/))  
-GitHub: [@yourusername](https://github.com/kishore8521)
+LinkedIn: https://www.linkedin.com/in/kishore-b-data-analyst/ 
+GitHub: https://github.com/kishore8521
